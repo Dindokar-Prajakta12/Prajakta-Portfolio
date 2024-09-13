@@ -1,0 +1,44 @@
+[
+    {
+      "key": 1,
+      "title": "On Click Services",
+      "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+      "description": "The Service Network Platform is a web-based app that connects service providers with consumers. It enables users to search for and book services across various categories, while providers can list and manage their offerings. Key features include user profiles, service listings, reviews, and real-time booking updates. Built with React, the platform offers a responsive, user-friendly interface for seamless interaction between users and providers.",
+      "source": "https://www.github.com"
+    },
+    {
+      "key": 2,
+      "title": "Music search App",
+      "imageSrc": "https://play-lh.googleusercontent.com/JIFTdlBTt-8Z94YP6CPVicE2JmEffeRDroFL3zr-PtewlT5Es17Nx3w6UbsuX_5ZBpm2",
+      "description": "The Music Search App is a React application that lets users search for music tracks, artists, or albums using a public API like Spotify. It displays relevant music information, such as track titles and artist names, and uses Axios for API requests. The app features basic styling for a user-friendly experience, demonstrating effective API integration and state management in React.",
+      "demo": "https://vmusic-alpha.vercel.app/"
+    },
+    {
+      "key": 3,
+      "title": "Book search web App",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Books_HD_%288314929977%29.jpg",
+      "description": "The Book Search App is a React-based application that allows users to search for books by title or author using a public API, such as the Google Books API. Users can input a query, and the app fetches and displays relevant book information, including titles, authors, and descriptions. The app leverages Axios for API requests and includes basic styling for a user-friendly interface.",
+      "demo": "https://bookhub-lyart.vercel.app/"
+    },
+    {
+      "key": 4,
+      "title": "Testing Project",
+      "imageSrc": "https://www.brandbucket.com/sites/default/files/logo_uploads/470685/large_shopperstack.png",
+      "description": "API Testing of E-Commerce website Shopper Stack (In this web application there are 18 modules so API testing of these all 18 modules is done by using postman software.)",
+      "demo": "https://github.com/Dindokar-Prajakta12/API-testing-project-.git"
+    },
+    {
+      "key": 3,
+      "title": "Weather App",
+      "imageSrc": "https://raw.githubusercontent.com/alexkowsik/react-weather-app/master/src/images/screenshot.png",
+      "description": "The Weather App is a simple React-based application that allows users to check the current weather conditions. By entering a location, users can view details such as temperature, humidity, and weather description. The app fetches weather data from a public API, like OpenWeatherMap, and displays it with a clean, user-friendly interface, showcasing basic React functionality and API integration.",
+      "demo": "https://weather-one-rouge.vercel.app/"
+    },
+    {
+      "key": 3,
+      "title": "Guest House Website",
+      "imageSrc": "https://img1.wsimg.com/isteam/ip/86ea4636-87e0-43cd-8fc4-5564f60ff14d/Premium%20room%20service%20apartments%20in%20kharadi.jpeg/:/cr=t:12.49%25,l:0%25,w:100%25,h:75.03%25/rs=w:600,h:300,cg:true",
+      "description": "The Guest House Website is a React-based web application designed to showcase a guest house offerings. It features a responsive layout with sections for booking rooms, viewing amenities, and exploring services. The site includes a navigation bar, contact form, image gallery, and a footer for consistent information across pages, providing a user-friendly experience for potential guests.",
+      "demo": "https://ghouse-five.vercel.app/"
+    }
+  ]

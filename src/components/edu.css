@@ -1,0 +1,168 @@
+/* .ex {
+    width: 900px;
+  }
+  
+  .ex-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bg-color);
+    margin: 20px;
+    padding: 30px;
+    width: 800px;
+    border-radius: 10px;
+    border: 1px solid yellow;
+    box-shadow: var(--box-shadow);
+    margin-top: 3rem; 
+    margin-bottom: 3rem; 
+    text-align: center; 
+  }
+.right {
+    text-align: center;
+    padding: 10px;
+  }
+  .right h2 {
+    font-size: 1.8rem;
+    font-family: "Times New Roman", Times, serif;
+    margin-bottom: 10px;
+    color:white;
+  }
+  .right h4 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    font-style: italic;
+  }
+  
+  .right h4 span {
+    display: block;
+    margin-bottom: 5px;
+  }
+  .right h4 span:first-child {
+    color: yellow;
+  }
+  .right h4 span:last-child {
+    color: yellowgreen; 
+  }
+  .right h5 {
+    font-size: 1.2rem;
+    color: yellow; 
+    margin-top: 5px;
+  }   */
+
+
+
+  /* Education Section */
+.ex {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  /* Education Items Styling */
+  .ex-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bg-color);
+    margin: 20px auto;
+    padding: 30px;
+    width: 100%;
+    max-width: 800px;
+    border-radius: 10px;
+    border: 1px solid yellow;
+    box-shadow: var(--box-shadow);
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .ex-items:hover {
+    transform: scale(1.02);
+  }
+  
+  .right {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .right h2 {
+    font-size: 1.8rem;
+    font-family: "Times New Roman", Times, serif;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  .right h4 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    font-style: italic;
+  }
+  
+  .right h4 span {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .right h4 span:first-child {
+    color: yellow;
+  }
+  
+  .right h4 span:last-child {
+    color: yellowgreen;
+  }
+  
+  .right h5 {
+    font-size: 1.2rem;
+    color: yellow;
+    margin-top: 5px;
+  }
+  
+  /* Responsive Design */
+  @media screen and (max-width: 768px) {
+    .ex {
+      max-width: 100%;
+      padding: 15px;
+    }
+  
+    .ex-items {
+      padding: 20px;
+    }
+  
+    .right h2 {
+      font-size: 1.6rem;
+    }
+  
+    .right h4 {
+      font-size: 1.2rem;
+    }
+  
+    .right h5 {
+      font-size: 1rem;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .ex {
+      padding: 10px;
+    }
+  
+    .ex-items {
+      padding: 15px;
+    }
+  
+    .right h2 {
+      font-size: 1.4rem;
+    }
+  
+    .right h4 {
+      font-size: 1.1rem;
+    }
+  
+    .right h5 {
+      font-size: 0.9rem;
+    }
+  }
+  

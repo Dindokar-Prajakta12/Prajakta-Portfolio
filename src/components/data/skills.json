@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title":"Java",
+    "imageSrc":"skills/firebase.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Networking",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Manual Testing",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "API Testing",
+    "imageSrc": "skills/figma.png"
+  }
+]

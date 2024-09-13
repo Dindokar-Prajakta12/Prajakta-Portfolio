@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "role": "Computer Science and Engineering",
+      "startDate": "2019",
+      "endDate": "2023",
+      "location": "Mauli college of engineering , Shegaon",
+      "experiences":"77%"
+    },
+    
+    {
+      "id": 2,
+      "role": "Higher Secondary Certificate",
+      "startDate": "2017",
+      "endDate": "2019",
+      "location": "Maharashtra State Board",
+      "experiences":"56.92%"
+    },
+    
+    {
+      "id": 2,
+      "role": "Secondary School Certificate",
+      "startDate": "2016",
+      "endDate": "2017",
+      "location": "Maharashtra State Board",
+      "experiences":"79.60%"
+    }
+  ]
