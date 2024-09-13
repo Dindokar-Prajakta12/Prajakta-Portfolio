@@ -16,7 +16,7 @@ const Projects = () => {
                 <div
                   className="card bg-dark text-light"
                   style={{
-                    width: "18rem",
+                    width: "22rem",
                     border: "1px solid yellow",
                     boxShadow: "5px 5px 10px 10px rgba(101, 175, 10, 0.5)",
                   }}
@@ -42,9 +42,6 @@ const Projects = () => {
                     <a href={data.demo} className="btn btn-primary mx-3">
                       Demo
                     </a>
-                    {/* <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a> */}
                   </div>
                 </div>
               </div>

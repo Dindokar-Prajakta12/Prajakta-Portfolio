@@ -173,7 +173,7 @@ a {
 /* Skills */
 
 .skills {
-  width: 900px;
+  width: 600px;
 }
 
 .skills .items {
@@ -181,9 +181,8 @@ a {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  
   margin: auto;
- 
+
 }
 
 .skills .items .item {
@@ -197,10 +196,10 @@ a {
   box-shadow: var(--box-shadow);
 }
 
-.skills .items .item img {
-  width: 70px;
-}
-/* res skill */
+/* .skills .items .item img {
+  width: 60px;
+} */
+
 
 @media (max-width: 1024px) {
   .item {
@@ -211,10 +210,10 @@ a {
     font-size: 2rem;
   }
 
-  .item img {
+  /* .item img {
     width: 80px;
     height: 80px;
-  }
+  } */
 
   .item h3 {
     font-size: 1.3rem;
@@ -239,10 +238,10 @@ a {
     font-size: 1.8rem;
   }
 
-  .item img {
+  /* .item img {
     width: 70px;
     height: 70px;
-  }
+  } */
 
   .item h3 {
     font-size: 1.2rem;
@@ -259,10 +258,10 @@ a {
     font-size: 1.5rem;
   }
 
-  .item img {
+  /* .item img {
     width: 60px;
     height: 60px;
-  }
+  } */
 
   .item h3 {
     font-size: 1rem;
@@ -400,4 +399,9 @@ a {
       font-size: 0.8rem;
       padding: 7px;
   }
+}
+
+/* project */
+.card-text{
+  text-align: justify;
 }
