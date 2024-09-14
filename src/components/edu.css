@@ -43,12 +43,12 @@
 
 @media (min-width: 769px) {
   .education-card {
-    width: 45%;
+    width: 45vw;
   }
 }
 
 @media (min-width: 1200px) {
   .education-card {
-    width: 30%;
+    width: 30vw;
   }
 }

@@ -8,7 +8,6 @@ const Home = () => {
     const options = {
       strings: [
         "Welcome to my profile",
-        "My Name is Prajakta Dindokar",
         "I'm Front-end developer",
         "Software developer",
         "Manual tester"
@@ -16,6 +15,7 @@ const Home = () => {
       typeSpeed: 50,
       backSpeed: 50,
       loop: true,
+      showCursor: false,
     };
 
     const typed = new Typed(typedRef.current, options);
@@ -30,6 +30,7 @@ const Home = () => {
       <div className="container home" id="home">
         <div className="left" data-aos="fade-up-right" data-aos-duration="1000">
           <h1 ref={typedRef}>Prajakta</h1>
+          <p>My Name is Prajakta Dindokar</p>
           <p>I am a recent graduate with a degree in Computer Science and Engineering, specializing in frontend development.
              I have hands-on experience with small React-based projects and a solid understanding of web technologies, including
               HTML, CSS, JavaScript, and Bootstrap. In addition to frontend skills, I am proficient in Java, manual testing,
