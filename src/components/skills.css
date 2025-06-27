@@ -1,0 +1,21 @@
+.skills-categories1{
+  font-size: 1rem; /* Adjust as needed */
+  /* font-weight: bold; */
+  margin-bottom: 0.5rem;
+}
+.skills12{
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.skills-category h2 {
+  font-size: 2rem; /* Set to your desired smaller size */
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.skills-category-title {
+  font-weight: bold;
+  font-size: 1rem; 
+  margin-right: 0.5rem;
+}

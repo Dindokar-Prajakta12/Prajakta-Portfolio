@@ -32,7 +32,7 @@ const Education = () => {
   return (
     <>
     <h1>EDUCATION</h1>
-    <div className="education-container" id="experience">
+    <div className="education-container" id="education">
       {educationData.map((edu) => (
         <div key={edu.id} className="education-card" 
           data-aos="zoom-in"

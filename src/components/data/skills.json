@@ -1,42 +1,67 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "category": "Core Technologies",
+    "skills": [
+      { "title": "Java", "imageSrc": "skills/java.png" }
+    ]
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "category": "Web Technologies",
+    "skills": [
+      { "title": "HTML", "imageSrc": "skills/html.png" },
+      { "title": "CSS", "imageSrc": "skills/css.png" },
+      { "title": "JavaScript", "imageSrc": "skills/javascript.png" },
+      { "title": "ReactJS", "imageSrc": "skills/react.png" },
+      { "title": "NodeJS", "imageSrc": "skills/node.png" },
+      { "title": "ExpressJS", "imageSrc": "skills/express.png" }
+    ]
   },
   {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "category": "Libraries",
+    "skills": [
+      { "title": "Redux", "imageSrc": "skills/redux.png" },
+      { "title": "Ant-Design", "imageSrc": "skills/antdesign.png" },
+      { "title": "Bootstrap", "imageSrc": "skills/bootstrap.png" },
+      { "title": "contextAPI", "imageSrc": "skills/contextapi.png" }
+    ]
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "category": "Database",
+    "skills": [
+      { "title": "MYSQL", "imageSrc": "skills/mysql.png" },
+      { "title": "Oracle", "imageSrc": "skills/oracle.png" },
+      { "title": "MongoDB", "imageSrc": "skills/mongodb.png" }
+    ]
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "category": "Networking",
+    "skills": [
+      { "title": "Computer Networks", "imageSrc": "skills/network.png" }
+    ]
   },
   {
-    "title":"Java",
-    "imageSrc":"skills/firebase.png"
+    "category": "Tools",
+    "skills": [
+      { "title": "Visual Studio Code", "imageSrc": "skills/vscode.png" },
+      { "title": "Postman", "imageSrc": "skills/postman.png" },
+      { "title": "Eclipse IDE", "imageSrc": "skills/eclipse.png" },
+      { "title": "Git", "imageSrc": "skills/git.png" },
+      { "title": "GitHub", "imageSrc": "skills/github.png" }
+    ]
   },
   {
-    "title": "SQL",
-    "imageSrc": "skills/graphql.png"
+    "category": "Hosting Platform",
+    "skills": [
+      { "title": "Vercel", "imageSrc": "skills/vercel.png" },
+      { "title": "Netlify", "imageSrc": "skills/netlify.png" },
+      { "title": "Render", "imageSrc": "skills/render.png" }
+    ]
   },
   {
-    "title": "Networking",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Manual Testing",
-    "imageSrc": "skills/figma.png"
-  },
-  {
-    "title": "API Testing",
-    "imageSrc": "skills/figma.png"
+    "category": "Testing",
+    "skills": [
+      { "title": "Manual Software Testing", "imageSrc": "skills/manualtesting.png" },
+      { "title": "API Testing", "imageSrc": "skills/apitesting.png" }
+    ]
   }
 ]
